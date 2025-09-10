@@ -3,9 +3,10 @@
   "interstitial_ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
   "native_ad_unit_id": "ca-app-pub-3940256099942544/2247696110",
   "rewarded_ad_unit_id": "ca-app-pub-3940256099942544/5224354917",
-  "minimum_required_version": "1.0.2",
+  "minimum_required_version": "1.0.3",
   "force_update": true
 }
+
 
 
 
