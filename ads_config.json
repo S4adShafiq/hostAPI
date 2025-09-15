@@ -1,5 +1,5 @@
 {
-  "ads_enabled": true,
+  "ads_enabled": false,
   "app_open_ad_enabled": true,
   "banner_ad_enabled": true,
   "interstitial_ad_enabled": true,
@@ -8,7 +8,8 @@
   "banner_ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
   "interstitial_ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
   "rewarded_ad_unit_id": "ca-app-pub-3940256099942544/5224354917",
-  "minimum_required_version": "1.0.3",
+  "minimum_required_version": "1.0.4",
   "force_update": true
 }
+
 
