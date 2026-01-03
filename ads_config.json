@@ -1,5 +1,5 @@
 {
-  "ads_enabled": true,
+  "ads_enabled": false,
   "app_open_ad_enabled": true,
   "banner_ad_enabled": true,
   "interstitial_ad_enabled": true,
@@ -11,6 +11,7 @@
   "minimum_required_version": "1.0.3",
   "force_update": true
 }
+
 
 
 
