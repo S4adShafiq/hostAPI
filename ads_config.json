@@ -8,9 +8,10 @@
   "banner_ad_unit_id": "/23304686509/Fast_VPN_Fast_Secure_320x100",
   "interstitial_ad_unit_id": "/23304686509/Fast_VPN_Fast_Secure_interstitial",
   "rewarded_ad_unit_id": "/23304686509/Fast_VPN_Fast_Secure_rewarded",
-  "minimum_required_version": "1.0.3",
+  "minimum_required_version": "1.0.4",
   "force_update": true
 }
+
 
 
 
